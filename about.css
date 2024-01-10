@@ -1,0 +1,35 @@
+.left{
+    width: 400px;
+    height: auto;
+    margin-left: 300px;
+    margin-top: 20px;
+    
+}
+.parrafo{
+    width: 40%;
+    height: auto;
+    float:right;
+    margin-right: 300px;
+    margin-top: 80px;
+}
+.right{
+    width: 400px;
+    height: auto;
+    float:right;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.parrafo1{
+    width: 40%;
+    height: auto;
+    float:left;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+
+main{
+    width: 100%;
+    height: auto;
+    
+}
